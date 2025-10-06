@@ -1,3 +1,10 @@
-[gd_scene format=3 uid="uid://dml5e2cgd87hp"]
+[gd_scene load_steps=2 format=3 uid="uid://dml5e2cgd87hp"]
+
+[ext_resource type="Texture2D" uid="uid://by3hvoe2ueyc0" path="res://Visuales/Scenario_fondo.png" id="1_auglk"]
 
 [node name="Node2D" type="Node2D"]
+
+[node name="ScenarioFondo" type="Sprite2D" parent="."]
+position = Vector2(960, 540)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_auglk")
