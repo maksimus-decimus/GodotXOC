@@ -1,22 +1,21 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759748172
-icon.svg::CompressedTexture2D::7600484132294774949::1759262236::1759346455::1::::<><><>0<>0<>b1e63edc26cb387d958464b936bfcdc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Escenarios/::1759321097
-::res://Escenarios/SAFA/::1759363657
-EscenaTest.tscn::PackedScene::8026066404486981365::1759363657::0::1::::<><><>0<>0<><>::
-::res://Visuales/::1759346456
-Escena nocturna ciberpunk iluminada por neón (1).png::CompressedTexture2D::8251087809133157282::1759345786::1759346456::1::::<><><>0<>0<>3514ed1aad9601e62d682d2bce09f7eb<>res://.godot/imported/Escena nocturna ciberpunk iluminada por neón (1).png-1d56d754049f0e0571cc02aaa68429b5.ctex::
-Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png::CompressedTexture2D::4075599500004998095::1759345786::1759346455::1::::<><><>0<>0<>54a189ed8c747ea6695c69ccda7208ca<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png-75d063fea537ce9a63c7494c9d6b9774.ctex::
-Gemini_Generated_Image_ia9zfsia9zfsia9z.png::CompressedTexture2D::4951044789092160387::1759345786::1759346456::1::::<><><>0<>0<>9b60bb48ead314c049fafeef25ab40a1<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z.png-2e6a89de897b1b910a547018faca0061.ctex::
-Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png::CompressedTexture2D::1904902504243670428::1759345786::1759346456::1::::<><><>0<>0<>74a94077db4bde5b931a387c5151f26a<>res://.godot/imported/Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png-f992e87349f2a20476184ecc2d119aa5.ctex::
-Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png::CompressedTexture2D::1590541552312836227::1759345786::1759346456::1::::<><><>0<>0<>c0a8bc260aa0c337a9ad9d56a06add21<>res://.godot/imported/Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png-9bdc784e578565bedebb0a45af867aee.ctex::
-Lethal-League-Blaze09152021-114820-74452.jpg::CompressedTexture2D::7508197012811811778::1759345786::1759346456::1::::<><><>0<>0<>321fb912c5dd1ac20ade3e81b425754d<>res://.godot/imported/Lethal-League-Blaze09152021-114820-74452.jpg-4b3abe57cdbdb90ff570a5261aaba27e.ctex::
-Sagrada Familia en píxel (1).png::CompressedTexture2D::8088448204167494030::1759345786::1759346456::1::::<><><>0<>0<>c2cb1fdf3365d806bf99f408cd2c2b19<>res://.godot/imported/Sagrada Familia en píxel (1).png-5d46d3ca37cfeabed1f448642d34fb31.ctex::
-Sagrada Familia en píxel.png::CompressedTexture2D::8251108086730697984::1759345786::1759346456::1::::<><><>0<>0<>212bb4bd7e1656e7d837a820dab6055e<>res://.godot/imported/Sagrada Familia en píxel.png-36d373b0e7b3b4f3fb79e310106bf872.ctex::
-Scenario_fondo.png::CompressedTexture2D::4129218771500707965::1759345786::1759346456::1::::<><><>0<>0<>0a76f6d10992ea8a466197c2703b645b<>res://.godot/imported/Scenario_fondo.png-e7e42de170ca809c1894d0ee4e8d2519.ctex::
-::res://Visuales/twin turbo/::1759346458
-TTfixed.fbx::PackedScene::5071672683541981529::1759345786::1759346457::1::::<><><>0<>0<>6b5bf73a5a85460cb8aebe056cc45123<>res://.godot/imported/TTfixed.fbx-811821ee924d1c1f05eff8277b6facb5.scn::
-twin cleaned.fbx::PackedScene::2966833001427031692::1759345787::1759346458::1::::<><><>0<>0<>69ce0936de741a98afa1a071edb1cc44<>res://.godot/imported/twin cleaned.fbx-514defeaee63136030e376dd40915a7a.scn::uid://dv8n32cc2dbdh::::res://Visuales/twin turbo/twin cleaned_0.png
-twin cleaned_0.png::CompressedTexture2D::8702192977844390777::1759346457::1759346458::1::::<><><>0<>0<>1d52032e0b80d1430cb2e5f443be60c8<>res://.godot/imported/twin cleaned_0.png-c9a9946253591f810aef49444cd5effa.s3tc.ctex::
-::res://Visuales/twin turbo/textures/::1759346455
-turbo tx.png::CompressedTexture2D::7012915731814375319::1759345786::1759346455::1::::<><><>0<>0<>0ecdb5ef1e194c1949c015d82864da6e<>res://.godot/imported/turbo tx.png-28607b1ec61b3ec01812a63f5e34c256.ctex::
+::res://::1759764902
+icon.svg::CompressedTexture2D::7600484132294774949::1759324555::1759764904::1::::<><><>0<>0<>b1e63edc26cb387d958464b936bfcdc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Escenarios/::1759324555
+::res://Escenarios/SAFA/::1759764515
+EscenaTest.tscn::PackedScene::8026066404486981365::1759764515::0::1::::<><><>0<>0<><>::uid://by3hvoe2ueyc0::::res://Visuales/Scenario_fondo.png
+::res://Visuales/::1759764515
+Escena nocturna ciberpunk iluminada por neón (1).png::CompressedTexture2D::8251087809133157282::1759337983::1759764905::1::::<><><>0<>0<>3514ed1aad9601e62d682d2bce09f7eb<>res://.godot/imported/Escena nocturna ciberpunk iluminada por neón (1).png-1d56d754049f0e0571cc02aaa68429b5.ctex::
+Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png::CompressedTexture2D::4075599500004998095::1759338533::1759764903::1::::<><><>0<>0<>54a189ed8c747ea6695c69ccda7208ca<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png-75d063fea537ce9a63c7494c9d6b9774.ctex::
+Gemini_Generated_Image_ia9zfsia9zfsia9z.png::CompressedTexture2D::4951044789092160387::1759338460::1759764904::1::::<><><>0<>0<>9b60bb48ead314c049fafeef25ab40a1<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z.png-2e6a89de897b1b910a547018faca0061.ctex::
+Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png::CompressedTexture2D::1904902504243670428::1759337809::1759764904::1::::<><><>0<>0<>74a94077db4bde5b931a387c5151f26a<>res://.godot/imported/Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png-f992e87349f2a20476184ecc2d119aa5.ctex::
+Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png::CompressedTexture2D::1590541552312836227::1759337936::1759764904::1::::<><><>0<>0<>c0a8bc260aa0c337a9ad9d56a06add21<>res://.godot/imported/Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png-9bdc784e578565bedebb0a45af867aee.ctex::
+Sagrada Familia en píxel (1).png::CompressedTexture2D::8088448204167494030::1759325850::1759764905::1::::<><><>0<>0<>c2cb1fdf3365d806bf99f408cd2c2b19<>res://.godot/imported/Sagrada Familia en píxel (1).png-5d46d3ca37cfeabed1f448642d34fb31.ctex::
+Sagrada Familia en píxel.png::CompressedTexture2D::8251108086730697984::1759325687::1759764904::1::::<><><>0<>0<>212bb4bd7e1656e7d837a820dab6055e<>res://.godot/imported/Sagrada Familia en píxel.png-36d373b0e7b3b4f3fb79e310106bf872.ctex::
+Scenario_fondo.png::CompressedTexture2D::4129218771500707965::1759339535::1759764905::1::::<><><>0<>0<>0a76f6d10992ea8a466197c2703b645b<>res://.godot/imported/Scenario_fondo.png-e7e42de170ca809c1894d0ee4e8d2519.ctex::
+::res://Visuales/twin turbo/::1759764515
+TTfixed.fbx::PackedScene::5071672683541981529::1758562538::1759764907::1::::<><><>0<>0<>6b5bf73a5a85460cb8aebe056cc45123<>res://.godot/imported/TTfixed.fbx-811821ee924d1c1f05eff8277b6facb5.scn::
+twin cleaned.fbx::PackedScene::2966833001427031692::1753539484::1759764907::1::::<><><>0<>0<>69ce0936de741a98afa1a071edb1cc44<>res://.godot/imported/twin cleaned.fbx-514defeaee63136030e376dd40915a7a.scn::uid://dv8n32cc2dbdh::::res://Visuales/twin turbo/twin cleaned_0.png
+twin cleaned_0.png::CompressedTexture2D::8702192977844390777::1759764515::1759764905::1::::<><><>0<>0<>1d52032e0b80d1430cb2e5f443be60c8<>res://.godot/imported/twin cleaned_0.png-c9a9946253591f810aef49444cd5effa.s3tc.ctex::
+::res://Visuales/twin turbo/textures/::1759764515
+turbo tx.png::CompressedTexture2D::7012915731814375319::1753539496::1759764903::1::::<><><>0<>0<>0ecdb5ef1e194c1949c015d82864da6e<>res://.godot/imported/turbo tx.png-28607b1ec61b3ec01812a63f5e34c256.ctex::

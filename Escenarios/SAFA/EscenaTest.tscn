@@ -1,10 +1,60 @@
-[gd_scene load_steps=2 format=3 uid="uid://dml5e2cgd87hp"]
+[gd_scene load_steps=3 format=3 uid="uid://dml5e2cgd87hp"]
 
 [ext_resource type="Texture2D" uid="uid://by3hvoe2ueyc0" path="res://Visuales/Scenario_fondo.png" id="1_auglk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_auglk"]
+size = Vector2(3289, 210)
 
 [node name="Node2D" type="Node2D"]
 
 [node name="ScenarioFondo" type="Sprite2D" parent="."]
-position = Vector2(960, 540)
-scale = Vector2(0.5, 0.5)
+position = Vector2(988, 346)
 texture = ExtResource("1_auglk")
+
+[node name="Suelo" type="StaticBody2D" parent="."]
+position = Vector2(995, 2196)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Suelo"]
+position = Vector2(-18.5, -889)
+shape = SubResource("RectangleShape2D_auglk")
+
+[node name="SUELO" type="Label" parent="Suelo/CollisionShape2D"]
+custom_minimum_size = Vector2(2, 2)
+offset_left = -304.5
+offset_top = -127.0
+offset_right = 107.5
+offset_bottom = -65.0
+scale = Vector2(8.6109295, 8.5155115)
+text = "suelo"
+metadata/_edit_use_anchors_ = true
+
+[node name="Paredes" type="StaticBody2D" parent="."]
+position = Vector2(-595, -761)
+collision_layer = 2
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Paredes"]
+position = Vector2(53, 0)
+polygon = PackedVector2Array(-6, 8, -21, 1932, -238, 1938, -253, 8)
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="Paredes"]
+position = Vector2(3405, -8)
+collision_layer = 2
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Paredes/StaticBody2D2"]
+position = Vector2(-41, 0)
+polygon = PackedVector2Array(-6, 8, -21, 1932, -238, 1938, -253, 8)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(980, 474.00003)
+scale = Vector2(-12.560757, 13.665974)
+zoom = Vector2(0.62, 0.68)
+limit_left = -654
+limit_top = -701
+limit_right = 2581
+limit_bottom = 1383
+drag_horizontal_enabled = true
+drag_vertical_enabled = true
+drag_left_margin = 0.0
+drag_right_margin = 0.0
+editor_draw_limits = true
+editor_draw_drag_margin = true
