@@ -1,48 +1,84 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759829500
-icon.svg::CompressedTexture2D::7600484132294774949::1759262236::1759829500::1::::<><><>0<>0<>b1e63edc26cb387d958464b936bfcdc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Escenarios/::1759321097
-::res://Escenarios/SAFA/::1759829290
-EscenaTest.tscn::PackedScene::8026066404486981365::1759829290::0::1::::<><><>0<>0<><>::uid://by3hvoe2ueyc0::::res://Visuales/Scenario_fondo.png
-::res://Visuales/::1759749827
-Escena nocturna ciberpunk iluminada por neón (1).png::CompressedTexture2D::8251087809133157282::1759345786::1759346456::1::::<><><>0<>0<>3514ed1aad9601e62d682d2bce09f7eb<>res://.godot/imported/Escena nocturna ciberpunk iluminada por neón (1).png-1d56d754049f0e0571cc02aaa68429b5.ctex::
-Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png::CompressedTexture2D::4075599500004998095::1759345786::1759346455::1::::<><><>0<>0<>54a189ed8c747ea6695c69ccda7208ca<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png-75d063fea537ce9a63c7494c9d6b9774.ctex::
-Gemini_Generated_Image_ia9zfsia9zfsia9z.png::CompressedTexture2D::4951044789092160387::1759345786::1759346456::1::::<><><>0<>0<>9b60bb48ead314c049fafeef25ab40a1<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z.png-2e6a89de897b1b910a547018faca0061.ctex::
-Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png::CompressedTexture2D::1904902504243670428::1759345786::1759346456::1::::<><><>0<>0<>74a94077db4bde5b931a387c5151f26a<>res://.godot/imported/Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png-f992e87349f2a20476184ecc2d119aa5.ctex::
-Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png::CompressedTexture2D::1590541552312836227::1759345786::1759346456::1::::<><><>0<>0<>c0a8bc260aa0c337a9ad9d56a06add21<>res://.godot/imported/Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png-9bdc784e578565bedebb0a45af867aee.ctex::
-Sagrada Familia en píxel (1).png::CompressedTexture2D::8088448204167494030::1759345786::1759346456::1::::<><><>0<>0<>c2cb1fdf3365d806bf99f408cd2c2b19<>res://.godot/imported/Sagrada Familia en píxel (1).png-5d46d3ca37cfeabed1f448642d34fb31.ctex::
-Sagrada Familia en píxel.png::CompressedTexture2D::8251108086730697984::1759345786::1759346456::1::::<><><>0<>0<>212bb4bd7e1656e7d837a820dab6055e<>res://.godot/imported/Sagrada Familia en píxel.png-36d373b0e7b3b4f3fb79e310106bf872.ctex::
-Scenario_fondo.png::CompressedTexture2D::4129218771500707965::1759345786::1759346456::1::::<><><>0<>0<>0a76f6d10992ea8a466197c2703b645b<>res://.godot/imported/Scenario_fondo.png-e7e42de170ca809c1894d0ee4e8d2519.ctex::
-::res://Visuales/twin turbo/::1759840167
-2.png::CompressedTexture2D::7747352843271187914::1759839503::1759840806::1::::<><><>0<>0<>fa56bb51f1b2909c3115e8306a815eeb<>res://.godot/imported/2.png-d255e409b43432e03150f3bf77ad35cc.ctex::
-3.png::CompressedTexture2D::5151917170745461584::1759839741::1759840806::1::::<><><>0<>0<>60eec747aab7ba75856696b9264ea421<>res://.godot/imported/3.png-280944d845ff2f318a5af8e03b99164a.ctex::
-4.png::CompressedTexture2D::3671891887785554364::1759839856::1759840806::1::::<><><>0<>0<>14ecb169594a4721181e145caa460390<>res://.godot/imported/4.png-4924aa03b72586a2d6225a2dc96dc477.ctex::
-5.png::CompressedTexture2D::8063376039939864102::1759840025::1759840806::1::::<><><>0<>0<>829d212f54eadd1794e5b8bb4d0f0ab2<>res://.godot/imported/5.png-b9965058fbb81dd1cc2e4c423653b304.ctex::
-6.png::CompressedTexture2D::5590885586436491110::1759840146::1759840806::1::::<><><>0<>0<>a95d09f0ec8242e4e635531329370f90<>res://.godot/imported/6.png-41cd5c5e9960c6837cfe575e65dc7b0a.ctex::
-PC _ Computer - Lethal League - Playable Characters - Raptor.png::CompressedTexture2D::2041079012243448261::1759839107::1759840805::1::::<><><>0<>0<>6b9f63a97c12713b985e77db5fce47ab<>res://.godot/imported/PC _ Computer - Lethal League - Playable Characters - Raptor.png-11b62a848497a114bb178c28bb7d7a54.ctex::
-ref1.png::CompressedTexture2D::1485421683098914498::1759836035::1759840805::1::::<><><>0<>0<>442a5818c95c4aeec837d0def137fe69<>res://.godot/imported/ref1.png-b5f316a7d7cfb9463d8e246fcd0271b3.ctex::
-TTfixed.fbx::PackedScene::5071672683541981529::1759345786::1759346457::1::::<><><>0<>0<>6b5bf73a5a85460cb8aebe056cc45123<>res://.godot/imported/TTfixed.fbx-811821ee924d1c1f05eff8277b6facb5.scn::
-twin cleaned.fbx::PackedScene::2966833001427031692::1759345787::1759346458::1::::<><><>0<>0<>69ce0936de741a98afa1a071edb1cc44<>res://.godot/imported/twin cleaned.fbx-514defeaee63136030e376dd40915a7a.scn::uid://dv8n32cc2dbdh::::res://Visuales/twin turbo/twin cleaned_0.png
-twin cleaned_0.png::CompressedTexture2D::8702192977844390777::1759346457::1759346458::1::::<><><>0<>0<>1d52032e0b80d1430cb2e5f443be60c8<>res://.godot/imported/twin cleaned_0.png-c9a9946253591f810aef49444cd5effa.s3tc.ctex::
-untitled.png::CompressedTexture2D::8431897773024566612::1759839376::1759840806::1::::<><><>0<>0<>48296a09533e8ab0961a83b5c5219053<>res://.godot/imported/untitled.png-1c326bf34fb4787654128c2fb342f117.ctex::
-::res://Visuales/twin turbo/Sprites/::1759839372
-::res://Visuales/twin turbo/textures/::1759346455
-turbo tx.png::CompressedTexture2D::7012915731814375319::1759345786::1759346455::1::::<><><>0<>0<>0ecdb5ef1e194c1949c015d82864da6e<>res://.godot/imported/turbo tx.png-28607b1ec61b3ec01812a63f5e34c256.ctex::
-::res://Visuales/twin turbo/いろいろ凶器セットver1.0/::1759835824
-::res://Visuales/twin turbo/いろいろ凶器セットver1.0/いろいろ凶器セットver1.0/::1759835825
-n2s.jpg::CompressedTexture2D::1284055592164189253::1759835824::1759840805::1::::<><><>0<>0<>b4f6dcb41297db8d4ec7c3b8a96a86f7<>res://.godot/imported/n2s.jpg-2844d440461302e58d64c9e378d2e4db.ctex::
-n2sb.jpg::CompressedTexture2D::8835226051496202221::1759835824::1759840805::1::::<><><>0<>0<>8bdcb6f5eb0b9184fc242f42885116cd<>res://.godot/imported/n2sb.jpg-59fc40a5b1f26b43fb23f1062a3c2b71.ctex::
-n2ss.jpg::CompressedTexture2D::5180883618285366555::1759835824::1759840805::1::::<><><>0<>0<>fd10efe170caa06ee17e1e0da78b298c<>res://.godot/imported/n2ss.jpg-8b6d3f44c90e9637138a70ea7d167e49.ctex::
-read me.txt::TextFile::-1::1759835824::0::1::::<><><>0<>0<><>::
-toon032.bmp::CompressedTexture2D::7287665383504357097::1759835824::1759840805::1::::<><><>0<>0<>734a4436cdbc187c2b7d14e61401a887<>res://.godot/imported/toon032.bmp-5866e966f48bbd78a1aa1e4b86781a6e.ctex::
-toon042.bmp::CompressedTexture2D::7079627891359675850::1759835824::1759840805::1::::<><><>0<>0<>5c9f1c0c6c34d157d82164536dc61f5f<>res://.godot/imported/toon042.bmp-849adbb8dd04573c2e5e7a385a08cfbb.ctex::
-uv凶器ナイフ.png::CompressedTexture2D::1959903537782140825::1759835824::1759840805::1::::<><><>0<>0<>8c4a88aab9d38a6f4a45f6f37b061f0a<>res://.godot/imported/uv凶器ナイフ.png-0259a45c1fb7c8d094ed8e0a11593cd3.ctex::
-uv凶器ナイフさび.png::CompressedTexture2D::5278528556042597640::1759835824::1759840805::1::::<><><>0<>0<>419878b31467a1ba36d711907b54aaa0<>res://.godot/imported/uv凶器ナイフさび.png-7d36a72ab84764b5943495becb71a581.ctex::
-uv凶器プロレス.png::CompressedTexture2D::8101601236595185004::1759835824::1759840805::1::::<><><>0<>0<>d7e9eebab8945de066f6cbafbc680b75<>res://.godot/imported/uv凶器プロレス.png-857425eb2eef1d56fb97c70f01d4e8b4.ctex::
-uv凶器プロレスさび.png::CompressedTexture2D::5864803757098559476::1759835824::1759840805::1::::<><><>0<>0<>684645b297231c3cf312c5b9708d413b<>res://.godot/imported/uv凶器プロレスさび.png-6ee07796e32812c9d6df14290fea0f89.ctex::
-uv凶器大.png::CompressedTexture2D::4124974752125974313::1759835824::1759840805::1::::<><><>0<>0<>5377c06228f76f10d663e4ccbcd90745<>res://.godot/imported/uv凶器大.png-e7435e0d2f3e4000708157a5b8e7bfc2.ctex::
-uv凶器大さび.png::CompressedTexture2D::5205991141660732555::1759835824::1759840805::1::::<><><>0<>0<>e8a57821d6606648b0aa3dac509e3cc5<>res://.godot/imported/uv凶器大さび.png-8da072afe420a10afa14e396f0172e80.ctex::
-uv凶器小.png::CompressedTexture2D::1437172975486760268::1759835824::1759840805::1::::<><><>0<>0<>7e1323313e3aaff11f0600a808968ccd<>res://.godot/imported/uv凶器小.png-4d38109996c1c3a040ec6f28c5c7eae1.ctex::
-uv凶器小さび.png::CompressedTexture2D::4560598377233345083::1759835824::1759840805::1::::<><><>0<>0<>3f20909a9b301bbbb143b54c6394debf<>res://.godot/imported/uv凶器小さび.png-05024714d7b7687d78b18fc95bdddd18.ctex::
-見本いろいろ凶器セットver1.0.jpg::CompressedTexture2D::8966215433581979427::1759835825::1759840805::1::::<><><>0<>0<>58048e1505c276633e04e3e33a87c3bc<>res://.godot/imported/見本いろいろ凶器セットver1.0.jpg-c714ccf8e00a189f8fb61e1b094592a8.ctex::
-::res://Visuales/twin turbo/いろいろ凶器セットver1.0/いろいろ凶器セットver1.0/mqo/::1759835824
+::res://::1759850105
+icon.svg::CompressedTexture2D::7600484132294774949::1759324555::1759850105::1::::<><><>0<>0<>b1e63edc26cb387d958464b936bfcdc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Escenarios/::1759324555
+::res://Escenarios/SAFA/::1759828534
+EscenaTest.tscn::PackedScene::8026066404486981365::1759828534::0::1::::<><><>0<>0<><>::uid://by3hvoe2ueyc0::::res://Visuales/Scenario_fondo.png
+::res://Visuales/::1759764905
+Escena nocturna ciberpunk iluminada por neón (1).png::CompressedTexture2D::8251087809133157282::1759337983::1759764905::1::::<><><>0<>0<>3514ed1aad9601e62d682d2bce09f7eb<>res://.godot/imported/Escena nocturna ciberpunk iluminada por neón (1).png-1d56d754049f0e0571cc02aaa68429b5.ctex::
+Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png::CompressedTexture2D::4075599500004998095::1759338533::1759764903::1::::<><><>0<>0<>54a189ed8c747ea6695c69ccda7208ca<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png-75d063fea537ce9a63c7494c9d6b9774.ctex::
+Gemini_Generated_Image_ia9zfsia9zfsia9z.png::CompressedTexture2D::4951044789092160387::1759338460::1759764904::1::::<><><>0<>0<>9b60bb48ead314c049fafeef25ab40a1<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z.png-2e6a89de897b1b910a547018faca0061.ctex::
+Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png::CompressedTexture2D::1904902504243670428::1759337809::1759764904::1::::<><><>0<>0<>74a94077db4bde5b931a387c5151f26a<>res://.godot/imported/Gemini_Generated_Image_qtnpyiqtnpyiqtnp.png-f992e87349f2a20476184ecc2d119aa5.ctex::
+Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png::CompressedTexture2D::1590541552312836227::1759337936::1759764904::1::::<><><>0<>0<>c0a8bc260aa0c337a9ad9d56a06add21<>res://.godot/imported/Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png-9bdc784e578565bedebb0a45af867aee.ctex::
+Sagrada Familia en píxel (1).png::CompressedTexture2D::8088448204167494030::1759325850::1759764905::1::::<><><>0<>0<>c2cb1fdf3365d806bf99f408cd2c2b19<>res://.godot/imported/Sagrada Familia en píxel (1).png-5d46d3ca37cfeabed1f448642d34fb31.ctex::
+Sagrada Familia en píxel.png::CompressedTexture2D::8251108086730697984::1759325687::1759764904::1::::<><><>0<>0<>212bb4bd7e1656e7d837a820dab6055e<>res://.godot/imported/Sagrada Familia en píxel.png-36d373b0e7b3b4f3fb79e310106bf872.ctex::
+Scenario_fondo.png::CompressedTexture2D::4129218771500707965::1759339535::1759764905::1::::<><><>0<>0<>0a76f6d10992ea8a466197c2703b645b<>res://.godot/imported/Scenario_fondo.png-e7e42de170ca809c1894d0ee4e8d2519.ctex::
+::res://Visuales/twin turbo/::1760375167
+PC _ Computer - Lethal League - Playable Characters - Raptor.png::CompressedTexture2D::2041079012243448261::1759842654::1759850106::1::::<><><>0<>0<>6b9f63a97c12713b985e77db5fce47ab<>res://.godot/imported/PC _ Computer - Lethal League - Playable Characters - Raptor.png-11b62a848497a114bb178c28bb7d7a54.ctex::
+ref1.png::CompressedTexture2D::1485421683098914498::1758561878::1759850105::1::::<><><>0<>0<>442a5818c95c4aeec837d0def137fe69<>res://.godot/imported/ref1.png-b5f316a7d7cfb9463d8e246fcd0271b3.ctex::
+twin_turbo.tscn::PackedScene::5712778731290040491::1760375167::0::1::::<><><>0<>0<><>::
+TTfixed.fbx::PackedScene::5071672683541981529::1758562538::1759764907::1::::<><><>0<>0<>6b5bf73a5a85460cb8aebe056cc45123<>res://.godot/imported/TTfixed.fbx-811821ee924d1c1f05eff8277b6facb5.scn::
+twin cleaned.fbx::PackedScene::2966833001427031692::1753539484::1759764907::1::::<><><>0<>0<>69ce0936de741a98afa1a071edb1cc44<>res://.godot/imported/twin cleaned.fbx-514defeaee63136030e376dd40915a7a.scn::uid://dv8n32cc2dbdh::::res://Visuales/twin turbo/twin cleaned_0.png
+twin cleaned_0.png::CompressedTexture2D::8702192977844390777::1759764515::1759764905::1::::<><><>0<>0<>1d52032e0b80d1430cb2e5f443be60c8<>res://.godot/imported/twin cleaned_0.png-c9a9946253591f810aef49444cd5effa.s3tc.ctex::
+::res://Visuales/twin turbo/Sprites/::1760378542
+uifoto.png::CompressedTexture2D::3554936703276049193::1760365109::1760371798::1::::<><><>0<>0<>a95633733d41c17615d07cc502d5fb88<>res://.godot/imported/uifoto.png-5f298bdad1d6e88f5975f055a86cf68b.ctex::
+::res://Visuales/twin turbo/Sprites/Agachar/::1759940759
+Crouch1.png::CompressedTexture2D::7360615220711563404::1759858125::1759940759::1::::<><><>0<>0<>8fb923a7e90a25c9cc6f07f0353ed611<>res://.godot/imported/Crouch1.png-47c136995550b61ef166ef27021d494b.ctex::
+Crouch2.png::CompressedTexture2D::4374886047529964359::1759858786::1759940759::1::::<><><>0<>0<>354878f8c0c211696048e5763687a005<>res://.godot/imported/Crouch2.png-82c5ab1fbbe55f1f1bcc022d08df9bcd.ctex::
+::res://Visuales/twin turbo/Sprites/Ataque/::1760379522
+Ataque01.png::CompressedTexture2D::4924708018879291532::1759859915::1759940759::1::::<><><>0<>0<>82b99ece0c4eb9845958a78d96ebe59d<>res://.godot/imported/Ataque01.png-a0640964c92796129546b78a35e8c3f7.ctex::
+Ataque1.png::CompressedTexture2D::647766395708482844::1759859477::1759940759::1::::<><><>0<>0<>6c2043e2c3279cf19ec47bfb4ee3f186<>res://.godot/imported/Ataque1.png-54ae43a0ad7e07ab5d6a924da79b8a02.ctex::
+Ataque2.png::CompressedTexture2D::1966655649399949720::1759940945::1759941356::1::::<><><>0<>0<>a8188bcaf40cadf377b23620129fefdd<>res://.godot/imported/Ataque2.png-4f7334d1b7b717367e4480056cdae675.ctex::
+Ataque2blur.png::CompressedTexture2D::6234133770473080721::1760379428::1760379488::1::::<><><>0<>0<>de44dd1ecfb8fca5e020230d564be423<>res://.godot/imported/Ataque2blur.png-f1340a6495291ecd37e5a59f41626dc6.ctex::
+Ataque3.png::CompressedTexture2D::1452779185982184390::1760379476::1760379488::1::::<><><>0<>0<>c115b0f61468d4357084958a254fd375<>res://.godot/imported/Ataque3.png-5511523f04853d689aa49d52ce31a93d.ctex::
+Ataque3blur.png::CompressedTexture2D::6997990006017305384::1760379517::1760379522::1::::<><><>0<>0<>9c47f1ee3ee88faf9d3e2038f5788fef<>res://.godot/imported/Ataque3blur.png-e827ddd1b544a9912b816c8d4c539921.ctex::
+Ataque4.png::CompressedTexture2D::3784968999494052941::1759941352::1759941356::1::::<><><>0<>0<>404c2a48a34d53b46164b96b5cb2c27c<>res://.godot/imported/Ataque4.png-6cee508ba96cd31b6f8fda83e5e72aff.ctex::
+::res://Visuales/twin turbo/Sprites/Caer/::1759940760
+Caer.png::CompressedTexture2D::954572644482414834::1759856170::1759940760::1::::<><><>0<>0<>530989b9897bca73214df0c41c21806b<>res://.godot/imported/Caer.png-5278c8154800fb868d52e3534aa42048.ctex::
+::res://Visuales/twin turbo/Sprites/CayendoAttack/::1760379957
+AtackCaer2.png::CompressedTexture2D::5174077766706828179::1759942533::1760023049::1::::<><><>0<>0<>58353ceb6e71c88bb237c01e8e281513<>res://.godot/imported/AtackCaer2.png-06d773a7f0608fa676633acd4e2231f7.ctex::
+AtackCaer3.png::CompressedTexture2D::4634172333403740127::1759942806::1760023049::1::::<><><>0<>0<>351b7027dbd0cb94b18892f0764f868c<>res://.godot/imported/AtackCaer3.png-7a0f54ddfb10860bddc8f6cda361ab82.ctex::
+AtackCaer3blur.png::CompressedTexture2D::8762470156559266935::1760379957::1760379958::1::::<><><>0<>0<>4b7b299e431a4dd280458aef49dd4e82<>res://.godot/imported/AtackCaer3blur.png-605c56b98ada87f83479e28b5494176a.ctex::
+AtackCaer4.png::CompressedTexture2D::3903860121086660470::1759942945::1760023049::1::::<><><>0<>0<>eed31d3cac5e83ea8888eb17ed433f17<>res://.godot/imported/AtackCaer4.png-48ffc498bdf01d43648b2a0989897e9a.ctex::
+AtackCaer.png::CompressedTexture2D::8074125970555919304::1759941990::1760023049::1::::<><><>0<>0<>5a7611188d31379d47ffe7786e8475b8<>res://.godot/imported/AtackCaer.png-7c9639c5ed3b0dcecb710144a2b98d54.ctex::
+::res://Visuales/twin turbo/Sprites/Correr/::1759850845
+1.png::CompressedTexture2D::5361082120136189083::1759842654::1759850844::1::::<><><>0<>0<>e0b59f5adbb133b8cfa216d380013a56<>res://.godot/imported/1.png-b653d0ae6f3e7e9b1b3c4b3d5f13b4f2.ctex::
+2.png::CompressedTexture2D::1620205863083400949::1759842653::1759850845::1::::<><><>0<>0<>d6d22b23bb340b8f73349a1f8ac8ad41<>res://.godot/imported/2.png-4fc89500174cab75629a578fbe6602c6.ctex::
+3.png::CompressedTexture2D::1463100512007867163::1759842653::1759850845::1::::<><><>0<>0<>358c98940439ffcf1408ff1692337acb<>res://.godot/imported/3.png-b2c87e8c32a6a8a8b8fea826aceb85c7.ctex::
+4.png::CompressedTexture2D::2527942409211576225::1759842653::1759850845::1::::<><><>0<>0<>9a7fed6b159d96cf4ada7e0b70c03400<>res://.godot/imported/4.png-353ae4e5f00d06cc68a87ba4253a33ec.ctex::
+5.png::CompressedTexture2D::5466772903298291071::1759842654::1759850845::1::::<><><>0<>0<>a13671f2d38fb144800c4c231c4e1920<>res://.godot/imported/5.png-965d23e83a3bb7974a14361088f27186.ctex::
+6.png::CompressedTexture2D::6435324773257049135::1759842654::1759850844::1::::<><><>0<>0<>34624e2d42195ae4a994bad6fd6fc7f9<>res://.godot/imported/6.png-f4fded34e7ab11dfb0ccb036e6fd4006.ctex::
+::res://Visuales/twin turbo/Sprites/daño/::1760023049
+recibirdano.png::CompressedTexture2D::8149882958879918122::1759944545::1760023049::1::::<><><>0<>0<>4035c29855ee23c27977b7dfed5a85c0<>res://.godot/imported/recibirdano.png-253cb151822c0052b2d90ce8a5403818.ctex::
+::res://Visuales/twin turbo/Sprites/Idle/::1760377032
+idle.png::CompressedTexture2D::1707997529970404505::1760376805::1760377032::1::::<><><>0<>0<>a828d6b2244713551e93e2fdb951940c<>res://.godot/imported/idle.png-e9fb93709ce7e4037dc4ccbbd847ca68.ctex::
+::res://Visuales/twin turbo/Sprites/muerte/::1760030061
+m1.png::CompressedTexture2D::4243225516193234035::1759945188::1760023049::1::::<><><>0<>0<>b68f968e2e502c554850da2c39031734<>res://.godot/imported/m1.png-b2f281435a37d3dc27c3ced9a39eca83.ctex::
+m2.png::CompressedTexture2D::7430751507537617907::1759945944::1760023049::1::::<><><>0<>0<>a6e3368f61b191dfc289407184792647<>res://.godot/imported/m2.png-de2b86083c357bf517dc53e5c69953b2.ctex::
+m3.png::CompressedTexture2D::8860508982130818861::1759946298::1760023049::1::::<><><>0<>0<>a46dab0679893177325c42e104ed6365<>res://.godot/imported/m3.png-815732c3339a05a575a280edaf82be3f.ctex::
+m4.png::CompressedTexture2D::2987229400774537742::1760028419::1760030061::1::::<><><>0<>0<>30391c75207a13fa58042e356a08b331<>res://.godot/imported/m4.png-2ef1ca6fb272a45979520d30bd1f88a8.ctex::
+::res://Visuales/twin turbo/Sprites/Saltar/::1759940759
+saltar.png::CompressedTexture2D::5074845749435896679::1759855734::1759940759::1::::<><><>0<>0<>bb2fef660381b0ba1519a16304bbe0e3<>res://.godot/imported/saltar.png-5394c5a2d19f1b690aadcf4ae3698626.ctex::
+::res://Visuales/twin turbo/Sprites/Walljump/::1759940760
+WJ1.png::CompressedTexture2D::4906258419448209799::1759856378::1759940760::1::::<><><>0<>0<>1043cd17b33269c9bf466b4079657e37<>res://.godot/imported/WJ1.png-26d3cd4531846074f2dde1b04ae18972.ctex::
+WJ2.png::CompressedTexture2D::3658266392342750632::1759857626::1759940760::1::::<><><>0<>0<>0eb867170db9bfebf5e31bbb930c03a7<>res://.godot/imported/WJ2.png-767c7d72927f2a1dbbfcc04dac329cdf.ctex::
+::res://Visuales/twin turbo/textures/::1759764903
+turbo tx.png::CompressedTexture2D::7012915731814375319::1753539496::1759764903::1::::<><><>0<>0<>0ecdb5ef1e194c1949c015d82864da6e<>res://.godot/imported/turbo tx.png-28607b1ec61b3ec01812a63f5e34c256.ctex::
+::res://Visuales/twin turbo/いろいろ凶器セットver1.0/::1759834950
+::res://Visuales/twin turbo/いろいろ凶器セットver1.0/いろいろ凶器セットver1.0/::1759850109
+n2s.jpg::CompressedTexture2D::1284055592164189253::1425990028::1759850109::1::::<><><>0<>0<>b4f6dcb41297db8d4ec7c3b8a96a86f7<>res://.godot/imported/n2s.jpg-2844d440461302e58d64c9e378d2e4db.ctex::
+n2sb.jpg::CompressedTexture2D::8835226051496202221::1447428616::1759850109::1::::<><><>0<>0<>8bdcb6f5eb0b9184fc242f42885116cd<>res://.godot/imported/n2sb.jpg-59fc40a5b1f26b43fb23f1062a3c2b71.ctex::
+n2ss.jpg::CompressedTexture2D::5180883618285366555::1465912894::1759850109::1::::<><><>0<>0<>fd10efe170caa06ee17e1e0da78b298c<>res://.godot/imported/n2ss.jpg-8b6d3f44c90e9637138a70ea7d167e49.ctex::
+read me.txt::TextFile::-1::1716067762::0::1::::<><><>0<>0<><>::
+toon032.bmp::CompressedTexture2D::7287665383504357097::1388060710::1759850109::1::::<><><>0<>0<>734a4436cdbc187c2b7d14e61401a887<>res://.godot/imported/toon032.bmp-5866e966f48bbd78a1aa1e4b86781a6e.ctex::
+toon042.bmp::CompressedTexture2D::7079627891359675850::1687967970::1759850109::1::::<><><>0<>0<>5c9f1c0c6c34d157d82164536dc61f5f<>res://.godot/imported/toon042.bmp-849adbb8dd04573c2e5e7a385a08cfbb.ctex::
+uv凶器ナイフ.png::CompressedTexture2D::1959903537782140825::1715760252::1759850109::1::::<><><>0<>0<>8c4a88aab9d38a6f4a45f6f37b061f0a<>res://.godot/imported/uv凶器ナイフ.png-0259a45c1fb7c8d094ed8e0a11593cd3.ctex::
+uv凶器ナイフさび.png::CompressedTexture2D::5278528556042597640::1715879898::1759850109::1::::<><><>0<>0<>419878b31467a1ba36d711907b54aaa0<>res://.godot/imported/uv凶器ナイフさび.png-7d36a72ab84764b5943495becb71a581.ctex::
+uv凶器プロレス.png::CompressedTexture2D::8101601236595185004::1715768796::1759850109::1::::<><><>0<>0<>d7e9eebab8945de066f6cbafbc680b75<>res://.godot/imported/uv凶器プロレス.png-857425eb2eef1d56fb97c70f01d4e8b4.ctex::
+uv凶器プロレスさび.png::CompressedTexture2D::5864803757098559476::1715880466::1759850109::1::::<><><>0<>0<>684645b297231c3cf312c5b9708d413b<>res://.godot/imported/uv凶器プロレスさび.png-6ee07796e32812c9d6df14290fea0f89.ctex::
+uv凶器大.png::CompressedTexture2D::4124974752125974313::1715777912::1759850108::1::::<><><>0<>0<>5377c06228f76f10d663e4ccbcd90745<>res://.godot/imported/uv凶器大.png-e7435e0d2f3e4000708157a5b8e7bfc2.ctex::
+uv凶器大さび.png::CompressedTexture2D::5205991141660732555::1715881296::1759850108::1::::<><><>0<>0<>e8a57821d6606648b0aa3dac509e3cc5<>res://.godot/imported/uv凶器大さび.png-8da072afe420a10afa14e396f0172e80.ctex::
+uv凶器小.png::CompressedTexture2D::1437172975486760268::1715775416::1759850107::1::::<><><>0<>0<>7e1323313e3aaff11f0600a808968ccd<>res://.godot/imported/uv凶器小.png-4d38109996c1c3a040ec6f28c5c7eae1.ctex::
+uv凶器小さび.png::CompressedTexture2D::4560598377233345083::1715880858::1759850106::1::::<><><>0<>0<>3f20909a9b301bbbb143b54c6394debf<>res://.godot/imported/uv凶器小さび.png-05024714d7b7687d78b18fc95bdddd18.ctex::
+見本いろいろ凶器セットver1.0.jpg::CompressedTexture2D::8966215433581979427::1716067008::1759850107::1::::<><><>0<>0<>58048e1505c276633e04e3e33a87c3bc<>res://.godot/imported/見本いろいろ凶器セットver1.0.jpg-c714ccf8e00a189f8fb61e1b094592a8.ctex::
+::res://Visuales/twin turbo/いろいろ凶器セットver1.0/いろいろ凶器セットver1.0/mqo/::1759834950
