@@ -1,0 +1,430 @@
+[gd_scene load_steps=44 format=2]
+
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Walljump/WJ1.png" type="Texture" id=1]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/muerte/m4.png" type="Texture" id=2]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/muerte/m2.png" type="Texture" id=3]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/muerte/m1.png" type="Texture" id=4]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/4.png" type="Texture" id=5]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/muerte/m3.png" type="Texture" id=6]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Walljump/WJ2.png" type="Texture" id=7]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/3.png" type="Texture" id=8]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/5.png" type="Texture" id=9]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/daño/recibirdano.png" type="Texture" id=10]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/6.png" type="Texture" id=11]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Saltar/saltar.png" type="Texture" id=12]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/2.png" type="Texture" id=13]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque2blur.png" type="Texture" id=14]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque2.png" type="Texture" id=15]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque3blur.png" type="Texture" id=16]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque01.png" type="Texture" id=17]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Agachar/Crouch1.png" type="Texture" id=18]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Idle/idle.png" type="Texture" id=19]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/CayendoAttack/AtackCaer3.png" type="Texture" id=20]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque4.png" type="Texture" id=21]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Agachar/Crouch2.png" type="Texture" id=22]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque1.png" type="Texture" id=23]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/CayendoAttack/AtackCaer2.png" type="Texture" id=24]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/CayendoAttack/AtackCaer4.png" type="Texture" id=25]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/CayendoAttack/AtackCaer3blur.png" type="Texture" id=26]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/CayendoAttack/AtackCaer.png" type="Texture" id=27]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/1.png" type="Texture" id=28]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque3.png" type="Texture" id=29]
+[ext_resource path="res://Juego/Chara/twin turbo/Sprites/Caer/Caer.png" type="Texture" id=30]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 23 ), ExtResource( 15 ), ExtResource( 14 ), ExtResource( 29 ), ExtResource( 16 ), ExtResource( 21 ), ExtResource( 17 ) ],
+"loop": true,
+"name": "ATTACK",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 18 ), ExtResource( 22 ) ],
+"loop": true,
+"name": "CROUCH",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 10 ) ],
+"loop": true,
+"name": "DAMAGE",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 4 ), ExtResource( 3 ), ExtResource( 6 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "DEATH",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 30 ) ],
+"loop": true,
+"name": "FALLING",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 27 ), ExtResource( 24 ), ExtResource( 20 ), ExtResource( 26 ), ExtResource( 25 ) ],
+"loop": true,
+"name": "FALL_ATTACK",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 19 ) ],
+"loop": true,
+"name": "IDLE",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 12 ) ],
+"loop": true,
+"name": "JUMP",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 28 ), ExtResource( 13 ), ExtResource( 8 ), ExtResource( 5 ), ExtResource( 9 ), ExtResource( 11 ) ],
+"loop": true,
+"name": "RUN",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 1 ), ExtResource( 7 ) ],
+"loop": true,
+"name": "WALLJUMP",
+"speed": 5.0
+} ]
+
+[sub_resource type="Animation" id=2]
+resource_name = "Attack"
+step = 0.0555556
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "ATTACK" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.166667, 0.333333, 0.5, 0.666667, 0.833333, 0.944444 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1, 1 ),
+"update": 1,
+"values": [ 0, 1, 2, 3, 4, 5, 6 ]
+}
+
+[sub_resource type="Animation" id=3]
+resource_name = "Crouch"
+step = 0.0555556
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "CROUCH" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.944444 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="Animation" id=4]
+resource_name = "Damage"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "DAMAGE" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.9 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 0 ]
+}
+
+[sub_resource type="Animation" id=5]
+resource_name = "Death"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "DEATH" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.3, 0.6, 0.9 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 1,
+"values": [ 0, 1, 2, 3 ]
+}
+
+[sub_resource type="Animation" id=6]
+resource_name = "Fall_attack"
+step = 0.0555556
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "FALL_ATTACK" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.166667, 0.388889, 0.555556, 0.722222, 0.944444 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1 ),
+"update": 1,
+"values": [ 0, 1, 1, 2, 3, 4 ]
+}
+
+[sub_resource type="Animation" id=7]
+resource_name = "Falling"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0.8 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "FALLING" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.9 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 0 ]
+}
+
+[sub_resource type="Animation" id=8]
+resource_name = "IDLE"
+step = 0.0166667
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "IDLE" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.916667 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 0 ]
+}
+
+[sub_resource type="Animation" id=9]
+resource_name = "Jump"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0.8 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "JUMP" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.9 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 0 ]
+}
+
+[sub_resource type="Animation" id=10]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ "IDLE" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ 0 ]
+}
+
+[sub_resource type="Animation" id=11]
+resource_name = "Run"
+step = 0.0333333
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "RUN" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.166667, 0.333333, 0.533333, 0.733333, 0.933333 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1 ),
+"update": 1,
+"values": [ 0, 1, 2, 3, 4, 5 ]
+}
+
+[sub_resource type="Animation" id=12]
+resource_name = "Walljump"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:animation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ "WALLJUMP" ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:frame")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.7 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="RectangleShape2D" id=13]
+extents = Vector2( 199.748, 644.444 )
+
+[node name="TwinTurbo" type="KinematicBody2D"]
+scale = Vector2( 0.36, 0.36 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "IDLE"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="AnimatedSprite"]
+anims/Attack = SubResource( 2 )
+anims/Crouch = SubResource( 3 )
+anims/Damage = SubResource( 4 )
+anims/Death = SubResource( 5 )
+anims/Fall_attack = SubResource( 6 )
+anims/Falling = SubResource( 7 )
+anims/IDLE = SubResource( 8 )
+anims/Jump = SubResource( 9 )
+anims/RESET = SubResource( 10 )
+anims/Run = SubResource( 11 )
+anims/Walljump = SubResource( 12 )
+
+[node name="CollisionBox" type="CollisionShape2D" parent="."]
+position = Vector2( -36.1111, 122.222 )
+scale = Vector2( 0.903918, 0.994047 )
+shape = SubResource( 13 )
+
+[node name="Raycasts" type="Node2D" parent="."]
+
+[node name="GroundL" type="RayCast2D" parent="Raycasts"]
+cast_to = Vector2( 0, 780.556 )
+
+[node name="GroundR" type="RayCast2D" parent="Raycasts"]
+cast_to = Vector2( 2.77778, 786.111 )
+
+[node name="LedgeL" type="RayCast2D" parent="Raycasts"]
+scale = Vector2( 1, 14.3869 )
+cast_to = Vector2( 0, 56.5717 )
+
+[node name="LedgeR" type="RayCast2D" parent="Raycasts"]
+cast_to = Vector2( 2.77778, 811.111 )

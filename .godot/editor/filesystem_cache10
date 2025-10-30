@@ -1,9 +1,8 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759850105
+::res://::1761837999
 icon.svg::CompressedTexture2D::7600484132294774949::1759324555::1759850105::1::::<><><>0<>0<>b1e63edc26cb387d958464b936bfcdc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Escenarios/::1759324555
-::res://Escenarios/SAFA/::1759828534
-EscenaTest.tscn::PackedScene::8026066404486981365::1759828534::0::1::::<><><>0<>0<><>::uid://by3hvoe2ueyc0::::res://Visuales/Scenario_fondo.png
+StateMachinen.gd::GDScript::5556329557950035057::1760451116::0::1::::StateMachine<>Node<><>0<>0<><>::
+StatemachineTwinTurbo.gd::GDScript::9203105769011108885::1760451668::0::1::::<>StateMachine<><>0<>0<><>::
 ::res://Visuales/::1759764905
 Escena nocturna ciberpunk iluminada por neón (1).png::CompressedTexture2D::8251087809133157282::1759337983::1759764905::1::::<><><>0<>0<>3514ed1aad9601e62d682d2bce09f7eb<>res://.godot/imported/Escena nocturna ciberpunk iluminada por neón (1).png-1d56d754049f0e0571cc02aaa68429b5.ctex::
 Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png::CompressedTexture2D::4075599500004998095::1759338533::1759764903::1::::<><><>0<>0<>54a189ed8c747ea6695c69ccda7208ca<>res://.godot/imported/Gemini_Generated_Image_ia9zfsia9zfsia9z-removebg-preview.png-75d063fea537ce9a63c7494c9d6b9774.ctex::
@@ -13,13 +12,13 @@ Gemini_Generated_Image_ukn7j3ukn7j3ukn7.png::CompressedTexture2D::15905415523128
 Sagrada Familia en píxel (1).png::CompressedTexture2D::8088448204167494030::1759325850::1759764905::1::::<><><>0<>0<>c2cb1fdf3365d806bf99f408cd2c2b19<>res://.godot/imported/Sagrada Familia en píxel (1).png-5d46d3ca37cfeabed1f448642d34fb31.ctex::
 Sagrada Familia en píxel.png::CompressedTexture2D::8251108086730697984::1759325687::1759764904::1::::<><><>0<>0<>212bb4bd7e1656e7d837a820dab6055e<>res://.godot/imported/Sagrada Familia en píxel.png-36d373b0e7b3b4f3fb79e310106bf872.ctex::
 Scenario_fondo.png::CompressedTexture2D::4129218771500707965::1759339535::1759764905::1::::<><><>0<>0<>0a76f6d10992ea8a466197c2703b645b<>res://.godot/imported/Scenario_fondo.png-e7e42de170ca809c1894d0ee4e8d2519.ctex::
-::res://Visuales/twin turbo/::1760375167
+::res://Visuales/twin turbo/::1760638165
 PC _ Computer - Lethal League - Playable Characters - Raptor.png::CompressedTexture2D::2041079012243448261::1759842654::1759850106::1::::<><><>0<>0<>6b9f63a97c12713b985e77db5fce47ab<>res://.godot/imported/PC _ Computer - Lethal League - Playable Characters - Raptor.png-11b62a848497a114bb178c28bb7d7a54.ctex::
 ref1.png::CompressedTexture2D::1485421683098914498::1758561878::1759850105::1::::<><><>0<>0<>442a5818c95c4aeec837d0def137fe69<>res://.godot/imported/ref1.png-b5f316a7d7cfb9463d8e246fcd0271b3.ctex::
-twin_turbo.tscn::PackedScene::5712778731290040491::1760375167::0::1::::<><><>0<>0<><>::
 TTfixed.fbx::PackedScene::5071672683541981529::1758562538::1759764907::1::::<><><>0<>0<>6b5bf73a5a85460cb8aebe056cc45123<>res://.godot/imported/TTfixed.fbx-811821ee924d1c1f05eff8277b6facb5.scn::
 twin cleaned.fbx::PackedScene::2966833001427031692::1753539484::1759764907::1::::<><><>0<>0<>69ce0936de741a98afa1a071edb1cc44<>res://.godot/imported/twin cleaned.fbx-514defeaee63136030e376dd40915a7a.scn::uid://dv8n32cc2dbdh::::res://Visuales/twin turbo/twin cleaned_0.png
 twin cleaned_0.png::CompressedTexture2D::8702192977844390777::1759764515::1759764905::1::::<><><>0<>0<>1d52032e0b80d1430cb2e5f443be60c8<>res://.godot/imported/twin cleaned_0.png-c9a9946253591f810aef49444cd5effa.s3tc.ctex::
+twin_turbo.tscn::PackedScene::5712778731290040491::1760451668::0::1::::<><><>0<>0<><>::uid://cim7ietwyxecp::::res://Visuales/twin turbo/Sprites/Correr/1.png<>uid://xc3s3irvcdv6::::res://Visuales/twin turbo/Sprites/Correr/2.png<>uid://u30b0y471gxf::::res://Visuales/twin turbo/Sprites/Correr/3.png<>uid://bcas3vrtu61r6::::res://Visuales/twin turbo/Sprites/Correr/4.png<>uid://cj5e7lmtkvnit::::res://Visuales/twin turbo/Sprites/Correr/5.png<>uid://cxxk4g1neulln::::res://Visuales/twin turbo/Sprites/Correr/6.png<>uid://ylmp8cd8qa2t::::res://Visuales/twin turbo/Sprites/Idle/idle.png<>uid://dc4si0omimuoa::::res://Visuales/twin turbo/Sprites/Agachar/Crouch1.png<>uid://b3lhy7scwgwt0::::res://Visuales/twin turbo/Sprites/Agachar/Crouch2.png<>uid://ccfthsejn0477::::res://Visuales/twin turbo/Sprites/Ataque/Ataque01.png<>uid://jh1vaj3vi3r1::::res://Visuales/twin turbo/Sprites/Ataque/Ataque1.png<>uid://cu24ji4xact18::::res://Visuales/twin turbo/Sprites/Ataque/Ataque2blur.png<>uid://3awscc25s0sa::::res://Visuales/twin turbo/Sprites/Ataque/Ataque2.png<>uid://ux0ccpfs5l2u::::res://Visuales/twin turbo/Sprites/Ataque/Ataque3.png<>uid://c6x44xfutcb6g::::res://Visuales/twin turbo/Sprites/Ataque/Ataque3blur.png<>uid://bt6p5eyjmeshx::::res://Visuales/twin turbo/Sprites/Ataque/Ataque4.png<>uid://dnbfw7n0yty8o::::res://Visuales/twin turbo/Sprites/CayendoAttack/AtackCaer.png<>uid://cfymkmo3a3xn4::::res://Visuales/twin turbo/Sprites/CayendoAttack/AtackCaer2.png<>uid://b7a3e2kqljdn8::::res://Visuales/twin turbo/Sprites/CayendoAttack/AtackCaer3.png<>uid://dw3uurm0tg3w2::::res://Visuales/twin turbo/Sprites/CayendoAttack/AtackCaer3blur.png<>uid://bvvcag0jdyhte::::res://Visuales/twin turbo/Sprites/CayendoAttack/AtackCaer4.png<>uid://nunw325gihbu::::res://Visuales/twin turbo/Sprites/Caer/Caer.png<>uid://dod4m8fgqijnm::::res://Visuales/twin turbo/Sprites/daño/recibirdano.png<>uid://b1ppkl1swvq8j::::res://Visuales/twin turbo/Sprites/muerte/m1.png<>uid://dd4rnk1x1ndlj::::res://Visuales/twin turbo/Sprites/muerte/m2.png<>uid://dyidj2nie2nqb::::res://Visuales/twin turbo/Sprites/muerte/m3.png<>uid://bitbh47k07v4q::::res://Visuales/twin turbo/Sprites/muerte/m4.png<>uid://cekj76cgxhwix::::res://Visuales/twin turbo/Sprites/Saltar/saltar.png<>uid://cb5vmhodafkkd::::res://Visuales/twin turbo/Sprites/Walljump/WJ1.png<>uid://bsedd3vpjog8o::::res://Visuales/twin turbo/Sprites/Walljump/WJ2.png
 ::res://Visuales/twin turbo/Sprites/::1760378542
 uifoto.png::CompressedTexture2D::3554936703276049193::1760365109::1760371798::1::::<><><>0<>0<>a95633733d41c17615d07cc502d5fb88<>res://.godot/imported/uifoto.png-5f298bdad1d6e88f5975f055a86cf68b.ctex::
 ::res://Visuales/twin turbo/Sprites/Agachar/::1759940759
@@ -35,7 +34,7 @@ Ataque3blur.png::CompressedTexture2D::6997990006017305384::1760379517::176037952
 Ataque4.png::CompressedTexture2D::3784968999494052941::1759941352::1759941356::1::::<><><>0<>0<>404c2a48a34d53b46164b96b5cb2c27c<>res://.godot/imported/Ataque4.png-6cee508ba96cd31b6f8fda83e5e72aff.ctex::
 ::res://Visuales/twin turbo/Sprites/Caer/::1759940760
 Caer.png::CompressedTexture2D::954572644482414834::1759856170::1759940760::1::::<><><>0<>0<>530989b9897bca73214df0c41c21806b<>res://.godot/imported/Caer.png-5278c8154800fb868d52e3534aa42048.ctex::
-::res://Visuales/twin turbo/Sprites/CayendoAttack/::1760379957
+::res://Visuales/twin turbo/Sprites/CayendoAttack/::1760379958
 AtackCaer2.png::CompressedTexture2D::5174077766706828179::1759942533::1760023049::1::::<><><>0<>0<>58353ceb6e71c88bb237c01e8e281513<>res://.godot/imported/AtackCaer2.png-06d773a7f0608fa676633acd4e2231f7.ctex::
 AtackCaer3.png::CompressedTexture2D::4634172333403740127::1759942806::1760023049::1::::<><><>0<>0<>351b7027dbd0cb94b18892f0764f868c<>res://.godot/imported/AtackCaer3.png-7a0f54ddfb10860bddc8f6cda361ab82.ctex::
 AtackCaer3blur.png::CompressedTexture2D::8762470156559266935::1760379957::1760379958::1::::<><><>0<>0<>4b7b299e431a4dd280458aef49dd4e82<>res://.godot/imported/AtackCaer3blur.png-605c56b98ada87f83479e28b5494176a.ctex::

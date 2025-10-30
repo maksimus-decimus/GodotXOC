@@ -8,9 +8,20 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Node",
+"class": "StateMachine",
+"language": "GDScript",
+"path": "res://Scripts/StateMachine.gd"
+} ]
+_global_script_class_icons={
+"StateMachine": ""
+}
+
 [application]
 
 config/name="Godot_Xoc"
+run/main_scene="res://Juego/Escenarios/SAFA/Test Stage.tscn"
 config/icon="res://icon.png"
 
 [display]
@@ -25,6 +36,14 @@ window/stretch/aspect="keep"
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
+
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Walls"
+2d_physics/layer_3="Platform"
+2d_physics/layer_4="Ledges"
+2d_physics/layer_5="BlastZone"
 
 [physics]
 
