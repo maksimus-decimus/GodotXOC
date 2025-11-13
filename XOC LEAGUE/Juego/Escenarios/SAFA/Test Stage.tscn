@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Juego/Escenarios/SAFA/Sagrada Familia en píxel (1).png" type="Texture" id=1]
+[ext_resource path="res://Juego/Chara/twin turbo/TwinTURBO_OLD.tscn" type="PackedScene" id=2]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 1618, 139.5 )
@@ -49,3 +50,6 @@ limit_bottom = 1118
 drag_margin_h_enabled = true
 drag_margin_v_enabled = true
 editor_draw_limits = true
+
+[node name="P1" parent="." instance=ExtResource( 2 )]
+position = Vector2( 379.465, 1222.62 )

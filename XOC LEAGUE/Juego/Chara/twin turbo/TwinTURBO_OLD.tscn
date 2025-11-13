@@ -1,4 +1,4 @@
-[gd_scene load_steps=44 format=2]
+[gd_scene load_steps=46 format=2]
 
 [ext_resource path="res://Juego/Chara/twin turbo/Sprites/Walljump/WJ1.png" type="Texture" id=1]
 [ext_resource path="res://Juego/Chara/twin turbo/Sprites/muerte/m4.png" type="Texture" id=2]
@@ -30,6 +30,8 @@
 [ext_resource path="res://Juego/Chara/twin turbo/Sprites/Correr/1.png" type="Texture" id=28]
 [ext_resource path="res://Juego/Chara/twin turbo/Sprites/Ataque/Ataque3.png" type="Texture" id=29]
 [ext_resource path="res://Juego/Chara/twin turbo/Sprites/Caer/Caer.png" type="Texture" id=30]
+[ext_resource path="res://Juego/Chara/twin turbo/TwinTurboPlayer.gd" type="Script" id=31]
+[ext_resource path="res://Juego/Chara/twin turbo/StateMachineTwinTurbo.gd" type="Script" id=32]
 
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
@@ -390,13 +392,19 @@ tracks/1/keys = {
 extents = Vector2( 199.748, 644.444 )
 
 [node name="TwinTurbo" type="KinematicBody2D"]
+position = Vector2( 0, 4 )
 scale = Vector2( 0.36, 0.36 )
+script = ExtResource( 31 )
 
-[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+[node name="StateMachine" type="Node" parent="."]
+script = ExtResource( 32 )
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( 0, -147.222 )
 frames = SubResource( 1 )
 animation = "IDLE"
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="AnimatedSprite"]
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite"]
 anims/Attack = SubResource( 2 )
 anims/Crouch = SubResource( 3 )
 anims/Damage = SubResource( 4 )
@@ -410,8 +418,8 @@ anims/Run = SubResource( 11 )
 anims/Walljump = SubResource( 12 )
 
 [node name="CollisionBox" type="CollisionShape2D" parent="."]
-position = Vector2( -36.1111, 122.222 )
-scale = Vector2( 0.903918, 0.994047 )
+position = Vector2( -2.77778, -22.2222 )
+scale = Vector2( 0.994827, 0.994047 )
 shape = SubResource( 13 )
 
 [node name="Raycasts" type="Node2D" parent="."]
@@ -428,3 +436,21 @@ cast_to = Vector2( 0, 56.5717 )
 
 [node name="LedgeR" type="RayCast2D" parent="Raycasts"]
 cast_to = Vector2( 2.77778, 811.111 )
+
+[node name="Frames" type="Label" parent="."]
+margin_left = -44.4444
+margin_top = -825.0
+margin_right = 472.556
+margin_bottom = -664.0
+rect_pivot_offset = Vector2( -3180.56, -313.889 )
+text = "45"
+
+[node name="State" type="Label" parent="."]
+margin_left = -119.444
+margin_top = -952.778
+margin_right = 330.556
+margin_bottom = -877.778
+rect_scale = Vector2( 1.02225, 1.25871 )
+rect_pivot_offset = Vector2( -3180.56, -313.889 )
+text = "TEST
+"
